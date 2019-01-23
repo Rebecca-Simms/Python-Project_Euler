@@ -1,9 +1,10 @@
 import time
 
 def SieveOfEratosthenes(n):
-    # Create a boolean array "prime[0..n]" and initialize
-    # all entries it as true. A value in prime[i] will
-    # finally be false if i is not a prime, else true.
+    """ Create a boolean array "prime[0..n]" and initialize
+        all entries it as true. A value in prime[i] will
+        finally be false if i is not a prime, else true.
+    """
     prime = [True for i in range(n + 1)]
     prime2 = []
     p = 2
@@ -21,6 +22,9 @@ def SieveOfEratosthenes(n):
     return prime
 
 def sum_of_primes(p):
+    """ Take list of primes found in SieveOfEratosthenes and create a new list of summed primes
+        where summation[i] is all primes summed up to i.
+    """
     summation = [0] * len(p)
     summation[0] = summation[1] = 0
     summation[2] = 2
