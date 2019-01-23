@@ -9,7 +9,7 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 The sum of all numbers between 1 and N which are divisible by 3 is
 
 ```math
-s_{3} \ = \ 3+6+9+12+\dots +3i \ \ \text{where} \ 3i\leq N
+s_{3}  =  3+6+9+12+\dots +3i \ \ \text{where} \ 3i N
 ```
 
 ```math
