@@ -1,16 +1,16 @@
-# Project Euler - Problem 1: Multiples of 3 and 5
+Project Euler - Problem 1: Multiples of 3 and 5
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3,5,6 and 9. The sum of these multiples is 23.
 
-**Problem:** Find the sum of all the multiples of 3 or 5 below N.
+\textbf{Problem:} Find the sum of all the multiples of 3 or 5 below N.
 
-## Solution: Explanation
+\textbf{Solution: Explanation}
 
 The sum of all numbers between 1 and N which are divisible by 3 is
 
-```math
+\begin{equation}
 s_{3}  =  3+6+9+12+\dots +3i \ \ \text{where} \ 3i\leq N
-```
+\end{equation}
 
 ```math
 s_{3} \ = \ 3(1+2+3+\dots +i) \ \ \text{where} \ i\leq \frac{N}{3}
