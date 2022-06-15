@@ -13,10 +13,10 @@ Solutions here to:
 - Problem 8 - Largest Product in a Series
 - Problem 9 - Special Pythagorean Triplet
 - Problem 10 - Summation of Primes
-- Problem 11
-- Problem 12
-- Problem 13
-- Problem 14
+- Problem 11 - Largest product in a grid
+- Problem 12 - 
+- Problem 13 - 
+- Problem 14 = 
 - Problem 15
 - Problem 16
 - Problem 17
