@@ -14,12 +14,12 @@ Solutions here to:
 - Problem 9 - Special Pythagorean Triplet
 - Problem 10 - Summation of Primes
 - Problem 11 - Largest product in a grid
-- Problem 12 - 
+- Problem 12 - Highly divisible triangular number
 - Problem 13 - 
-- Problem 14 = 
-- Problem 15
-- Problem 16
-- Problem 17
-- Problem 18
-- Problem 19
-- Problem 20
+- Problem 14 -  
+- Problem 15 - 
+- Problem 16 - 
+- Problem 17 - 
+- Problem 18 - 
+- Problem 19 - 
+- Problem 20 - 
