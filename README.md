@@ -3,9 +3,9 @@
 Project Euler, named after Leonhard Euler, is a website dedicated to a series of computational problems intended to be solved with computer programs.
 
 Solutions here to:
-- Problem 1 - Multiples of 3 and 5
-- Problem 2 - Even Fibonacci numbers
-- Problem 3 - Largest Prime Factor
+- Problem 1 - Multiples of 3 and 5 - Pythonized
+- Problem 2 - Even Fibonacci numbers - Pythonized
+- Problem 3 - Largest Prime Factor - Pythonized
 - Problem 4 - Largest palindrome product
 - Problem 5 - Smallest Multiple
 - Problem 6 - Sum Square Difference
