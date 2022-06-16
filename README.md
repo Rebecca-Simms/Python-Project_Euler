@@ -7,7 +7,7 @@ Solutions here to:
 - Problem 2 - Even Fibonacci numbers - Answer = 4613732 - Pythonized
 - Problem 3 - Largest Prime Factor - Answer = 6857 - Pythonized
 - Problem 4 - Largest palindrome product - Answer = 906609 - Pythonized
-- Problem 5 - Smallest Multiple - Answer = 232792560 -
+- Problem 5 - Smallest Multiple - Answer = 232792560 - Pythonized
 - Problem 6 - Sum Square Difference - Answer = 25164150 -
 - Problem 7 - 10001st Prime - Answer = 104743 -
 - Problem 8 - Largest Product in a Series - Answer = 40824 -
