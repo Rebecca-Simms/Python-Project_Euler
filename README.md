@@ -8,7 +8,7 @@ Solutions here to:
 - Problem 3 - Largest Prime Factor - Answer = 6857 - Pythonized
 - Problem 4 - Largest palindrome product - Answer = 906609 - Pythonized
 - Problem 5 - Smallest Multiple - Answer = 232792560 - Pythonized
-- Problem 6 - Sum Square Difference - Answer = 25164150 -
+- Problem 6 - Sum Square Difference - Answer = 25164150 - Pythonized
 - Problem 7 - 10001st Prime - Answer = 104743 -
 - Problem 8 - Largest Product in a Series - Answer = 40824 -
 - Problem 9 - Special Pythagorean Triplet - Answer = 31875000 -
