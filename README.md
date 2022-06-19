@@ -15,22 +15,22 @@ Solutions here to:
 - Problem 10 - Summation of Primes - Answer = 142913828922 - Pythonized
 - Problem 11 - Largest product in a grid - Answer = 70600674 -
 - Problem 12 - Highly divisible triangular number - Answer = 76576500 -
-- Problem 13 - 
-- Problem 14 -  
-- Problem 15 - 
-- Problem 16 - 
-- Problem 17 - 
-- Problem 18 - 
-- Problem 19 - 
-- Problem 20 - 
-- Problem 21 - 
-- Problem 22 - 
-- Problem 23 - 
-- Problem 24 - 
-- Problem 25 - 
-- Problem 26 - 
-- Problem 27 - 
-- Problem 28 - 
+- Problem 13 - Large sum 
+- Problem 14 - Longest Collatz sequence   
+- Problem 15 - Lattice paths
+- Problem 16 - Power digit sum
+- Problem 17 - Number letter counts
+- Problem 18 - Maximum path sum I
+- Problem 19 - Counting Sundays
+- Problem 20 - Factorial digit sum
+- Problem 21 - Amicable numbers
+- Problem 22 - Names scores
+- Problem 23 - Non-abundant sums
+- Problem 24 - Lexicographic permutations
+- Problem 25 - 1000-digit Fibonacci number
+- Problem 26 - Reciprocal cycles
+- Problem 27 - Quadratic primes
+- Problem 28 - Number spiral diagonals
 - Problem 29 - 
 - Problem 30 - 
 - Problem 31 - 
