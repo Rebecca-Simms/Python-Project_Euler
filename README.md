@@ -10,9 +10,9 @@ Solutions here to:
 - Problem 5 - Smallest Multiple - Answer = 232792560 - Pythonized
 - Problem 6 - Sum Square Difference - Answer = 25164150 - Pythonized
 - Problem 7 - 10001st Prime - Answer = 104743 - Pythonized
-- Problem 8 - Largest Product in a Series - Answer = 40824 -
-- Problem 9 - Special Pythagorean Triplet - Answer = 31875000 -
-- Problem 10 - Summation of Primes - Answer = 142913828922 -
+- Problem 8 - Largest Product in a Series - Answer = 40824 - Pythonized
+- Problem 9 - Special Pythagorean Triplet - Answer = 31875000 - Pythonized
+- Problem 10 - Summation of Primes - Answer = 142913828922 - Pythonized
 - Problem 11 - Largest product in a grid - Answer = 70600674 -
 - Problem 12 - Highly divisible triangular number - Answer = 76576500 -
 - Problem 13 - 
