@@ -15,23 +15,23 @@ Solutions here to:
 - Problem 10 - Summation of Primes - Answer = 142913828922 - Pythonized
 - Problem 11 - Largest product in a grid - Answer = 70600674 -
 - Problem 12 - Highly divisible triangular number - Answer = 76576500 -
-- Problem 13 - Large sum 
-- Problem 14 - Longest Collatz sequence   
-- Problem 15 - Lattice paths
-- Problem 16 - Power digit sum
-- Problem 17 - Number letter counts
-- Problem 18 - Maximum path sum I
-- Problem 19 - Counting Sundays
-- Problem 20 - Factorial digit sum
-- Problem 21 - Amicable numbers
-- Problem 22 - Names scores
-- Problem 23 - Non-abundant sums
-- Problem 24 - Lexicographic permutations
-- Problem 25 - 1000-digit Fibonacci number
-- Problem 26 - Reciprocal cycles
-- Problem 27 - Quadratic primes
-- Problem 28 - Number spiral diagonals
-- Problem 29 - Distinct powers
-- Problem 30 - Digit fifth powers
-- Problem 31 - Coin sums
-- Problem 32 - Pandigital products
+- Problem 13 - Large sum - Answer =  - 
+- Problem 14 - Longest Collatz sequence - Answer =  -    
+- Problem 15 - Lattice paths - Answer =  - 
+- Problem 16 - Power digit sum - Answer =  - 
+- Problem 17 - Number letter counts - Answer =  - 
+- Problem 18 - Maximum path sum I - Answer =  - 
+- Problem 19 - Counting Sundays - Answer =  - 
+- Problem 20 - Factorial digit sum - Answer =  - 
+- Problem 21 - Amicable numbers - Answer =  - 
+- Problem 22 - Names scores - Answer =  - 
+- Problem 23 - Non-abundant sums - Answer =  - 
+- Problem 24 - Lexicographic permutations - Answer =  - 
+- Problem 25 - 1000-digit Fibonacci number - Answer =  - 
+- Problem 26 - Reciprocal cycles - Answer =  - 
+- Problem 27 - Quadratic primes - Answer =  - 
+- Problem 28 - Number spiral diagonals - Answer =  - 
+- Problem 29 - Distinct powers - Answer =  - 
+- Problem 30 - Digit fifth powers - Answer =  - 
+- Problem 31 - Coin sums - Answer =  - 
+- Problem 32 - Pandigital products - Answer =  - 
