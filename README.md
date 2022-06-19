@@ -23,3 +23,13 @@ Solutions here to:
 - Problem 18 - 
 - Problem 19 - 
 - Problem 20 - 
+- Problem 21 - 
+- Problem 22 - 
+- Problem 23 - 
+- Problem 24 - 
+- Problem 25 - 
+- Problem 26 - 
+- Problem 27 - 
+- Problem 28 - 
+- Problem 29 - 
+- Problem 30 - 
