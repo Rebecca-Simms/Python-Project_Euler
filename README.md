@@ -15,9 +15,9 @@ Solutions here to:
 - Problem 10 - Summation of Primes - Answer = 142913828922 - Pythonized
 - Problem 11 - Largest product in a grid - Answer = 70600674 -
 - Problem 12 - Highly divisible triangular number - Answer = 76576500 -
-- Problem 13 - Large sum - Answer =  - 
-- Problem 14 - Longest Collatz sequence - Answer =  -    
-- Problem 15 - Lattice paths - Answer =  - 
+- Problem 13 - Large sum - Answer = 5537376230 - 
+- Problem 14 - Longest Collatz sequence - Answer = 837799 -    
+- Problem 15 - Lattice paths - Answer = 137846528820 - 
 - Problem 16 - Power digit sum - Answer =  - 
 - Problem 17 - Number letter counts - Answer =  - 
 - Problem 18 - Maximum path sum I - Answer =  - 
