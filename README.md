@@ -33,3 +33,5 @@ Solutions here to:
 - Problem 28 - 
 - Problem 29 - 
 - Problem 30 - 
+- Problem 31 - 
+- Problem 32 -  
