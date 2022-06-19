@@ -31,7 +31,7 @@ Solutions here to:
 - Problem 26 - Reciprocal cycles
 - Problem 27 - Quadratic primes
 - Problem 28 - Number spiral diagonals
-- Problem 29 - 
-- Problem 30 - 
-- Problem 31 - 
-- Problem 32 -  
+- Problem 29 - Distinct powers
+- Problem 30 - Digit fifth powers
+- Problem 31 - Coin sums
+- Problem 32 - Pandigital products
