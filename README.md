@@ -13,7 +13,7 @@ Solutions here to:
 - Problem 8 - Largest Product in a Series - Answer = 40824 - Pythonized
 - Problem 9 - Special Pythagorean Triplet - Answer = 31875000 - Pythonized
 - Problem 10 - Summation of Primes - Answer = 142913828922 - Pythonized
-- Problem 11 - Largest product in a grid - Answer = 70600674 -
+- Problem 11 - Largest product in a grid - Answer = 70600674 - Pythonized
 - Problem 12 - Highly divisible triangular number - Answer = 76576500 -
 - Problem 13 - Large sum - Answer = 5537376230 - 
 - Problem 14 - Longest Collatz sequence - Answer = 837799 -    
