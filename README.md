@@ -17,7 +17,7 @@ Solutions here to:
 - Problem 12 - Highly divisible triangular number - Answer = 76576500 - Pythonized
 - Problem 13 - Large sum - Answer = 5537376230 - Pythonized
 - Problem 14 - Longest Collatz sequence - Answer = 837799 - Pythonized    
-- Problem 15 - Lattice paths - Answer = 137846528820 - 
+- Problem 15 - Lattice paths - Answer = 137846528820 - Pythonized   
 - Problem 16 - Power digit sum - Answer =  - 
 - Problem 17 - Number letter counts - Answer =  - 
 - Problem 18 - Maximum path sum I - Answer =  - 
